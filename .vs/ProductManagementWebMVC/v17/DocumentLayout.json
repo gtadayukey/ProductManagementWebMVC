@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\",
+  "WorkspaceRootPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{224E7D4B-F73E-4F0A-BF86-65322964F03E}|ProductManagementTests\\ProductManagementTests.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementtests\\integratetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224E7D4B-F73E-4F0A-BF86-65322964F03E}|ProductManagementTests\\ProductManagementTests.csproj|solutionrelative:productmanagementtests\\integratetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\productmanagementwebmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|d:\\code\\c#\\projects\\productmanagementwebmvc\\productmanagementwebmvc\\productmanagementwebmvc\\services\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F31293-2933-483C-B495-D7AD0BBC9A3E}|ProductManagementWebMVC\\ProductManagementWebMVC.csproj|solutionrelative:productmanagementwebmvc\\services\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PaginatedList.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Services\\PaginatedList.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Services\\PaginatedList.cs",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Services\\PaginatedList.cs",
-              "RelativeToolTip": "ProductManagementWebMVC\\Services\\PaginatedList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:02:30.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProductManagementWebMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagementWebMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwKoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T02:20:01.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T06:18:45.831Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductManagementWebMVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAdAAAA",
+              "Title": "IntegrateTests.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementTests\\IntegrateTests.cs",
+              "RelativeDocumentMoniker": "ProductManagementTests\\IntegrateTests.cs",
+              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementTests\\IntegrateTests.cs",
+              "RelativeToolTip": "ProductManagementTests\\IntegrateTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T02:29:07.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "ProductManagementWebMVC\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywB8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T02:26:33.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Program.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Program.cs",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Program.cs",
-              "RelativeToolTip": "ProductManagementWebMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T01:53:11.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebMVC\\Models\\Product.cs",
-              "ToolTip": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\Models\\Product.cs",
-              "RelativeToolTip": "ProductManagementWebMVC\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T01:47:55.905Z",
+              "WhenOpened": "2024-04-30T05:56:08.982Z",
               "EditorCaption": ""
             }
           ]

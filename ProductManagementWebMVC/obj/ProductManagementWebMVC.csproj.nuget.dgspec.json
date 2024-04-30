@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj": {}
+    "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj": {
+    "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj",
         "projectName": "ProductManagementWebMVC",
-        "projectPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj",
+        "projectPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC.csproj",
         "packagesPath": "C:\\Users\\GTada\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\ProductManagementWebMVC\\obj\\",
+        "outputPath": "D:\\Code\\C#\\Projects\\ProductManagementWebMVC\\ProductManagementWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,11 +50,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
